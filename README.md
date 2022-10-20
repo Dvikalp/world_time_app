@@ -4,13 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a world time clock app made with only flutter. It is connected to world time api that give time of different locations all over the world.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20221020-175545](https://user-images.githubusercontent.com/110767544/196957624-19f1fcf6-7d4f-402b-81ff-cb7f5bc7e2d8.jpg)
+![Screenshot_20221012-031050](https://user-images.githubusercontent.com/110767544/196957743-2ef268fc-834e-436c-a072-b43f7dbc9e90.jpg)
